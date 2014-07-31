@@ -11,4 +11,4 @@ This repository contains class code and web resources.
 The code resources can be found in navigation above.
 
 
-The Wiki outlines the course and contains the web resources.
+The Wiki outlines the course and contains the web resources.  https://github.com/INFO-2310/Class/wiki
